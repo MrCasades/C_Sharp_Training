@@ -1,0 +1,13 @@
+C:\Users\Mikhail_Kostyukov\source\repos\Gladiator_Fight\bin\Debug\netcoreapp3.1\Gladiator_Fight.exe
+C:\Users\Mikhail_Kostyukov\source\repos\Gladiator_Fight\bin\Debug\netcoreapp3.1\Gladiator_Fight.deps.json
+C:\Users\Mikhail_Kostyukov\source\repos\Gladiator_Fight\bin\Debug\netcoreapp3.1\Gladiator_Fight.runtimeconfig.json
+C:\Users\Mikhail_Kostyukov\source\repos\Gladiator_Fight\bin\Debug\netcoreapp3.1\Gladiator_Fight.runtimeconfig.dev.json
+C:\Users\Mikhail_Kostyukov\source\repos\Gladiator_Fight\bin\Debug\netcoreapp3.1\Gladiator_Fight.dll
+C:\Users\Mikhail_Kostyukov\source\repos\Gladiator_Fight\bin\Debug\netcoreapp3.1\Gladiator_Fight.pdb
+C:\Users\Mikhail_Kostyukov\source\repos\Gladiator_Fight\obj\Debug\netcoreapp3.1\Gladiator_Fight.csprojAssemblyReference.cache
+C:\Users\Mikhail_Kostyukov\source\repos\Gladiator_Fight\obj\Debug\netcoreapp3.1\Gladiator_Fight.AssemblyInfoInputs.cache
+C:\Users\Mikhail_Kostyukov\source\repos\Gladiator_Fight\obj\Debug\netcoreapp3.1\Gladiator_Fight.AssemblyInfo.cs
+C:\Users\Mikhail_Kostyukov\source\repos\Gladiator_Fight\obj\Debug\netcoreapp3.1\Gladiator_Fight.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail_Kostyukov\source\repos\Gladiator_Fight\obj\Debug\netcoreapp3.1\Gladiator_Fight.dll
+C:\Users\Mikhail_Kostyukov\source\repos\Gladiator_Fight\obj\Debug\netcoreapp3.1\Gladiator_Fight.pdb
+C:\Users\Mikhail_Kostyukov\source\repos\Gladiator_Fight\obj\Debug\netcoreapp3.1\Gladiator_Fight.genruntimeconfig.cache

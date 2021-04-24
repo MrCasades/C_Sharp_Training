@@ -1,0 +1,13 @@
+C:\Users\Mikhail_Kostyukov\source\repos\CycleWhile\bin\Debug\netcoreapp3.1\CycleWhile.exe
+C:\Users\Mikhail_Kostyukov\source\repos\CycleWhile\bin\Debug\netcoreapp3.1\CycleWhile.deps.json
+C:\Users\Mikhail_Kostyukov\source\repos\CycleWhile\bin\Debug\netcoreapp3.1\CycleWhile.runtimeconfig.json
+C:\Users\Mikhail_Kostyukov\source\repos\CycleWhile\bin\Debug\netcoreapp3.1\CycleWhile.runtimeconfig.dev.json
+C:\Users\Mikhail_Kostyukov\source\repos\CycleWhile\bin\Debug\netcoreapp3.1\CycleWhile.dll
+C:\Users\Mikhail_Kostyukov\source\repos\CycleWhile\bin\Debug\netcoreapp3.1\CycleWhile.pdb
+C:\Users\Mikhail_Kostyukov\source\repos\CycleWhile\obj\Debug\netcoreapp3.1\CycleWhile.csprojAssemblyReference.cache
+C:\Users\Mikhail_Kostyukov\source\repos\CycleWhile\obj\Debug\netcoreapp3.1\CycleWhile.AssemblyInfoInputs.cache
+C:\Users\Mikhail_Kostyukov\source\repos\CycleWhile\obj\Debug\netcoreapp3.1\CycleWhile.AssemblyInfo.cs
+C:\Users\Mikhail_Kostyukov\source\repos\CycleWhile\obj\Debug\netcoreapp3.1\CycleWhile.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail_Kostyukov\source\repos\CycleWhile\obj\Debug\netcoreapp3.1\CycleWhile.dll
+C:\Users\Mikhail_Kostyukov\source\repos\CycleWhile\obj\Debug\netcoreapp3.1\CycleWhile.pdb
+C:\Users\Mikhail_Kostyukov\source\repos\CycleWhile\obj\Debug\netcoreapp3.1\CycleWhile.genruntimeconfig.cache
