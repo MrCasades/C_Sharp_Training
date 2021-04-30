@@ -45,31 +45,44 @@ namespace array_training_2
 
             int[] tables = { 7, 5, 9, 10, 8, 7, 3 };
 
-            while(true)
+            while(isOpen)
             {
-                Console.WriteLine("1 - view tables list \n2 - book the table \n3 - Exit");
+                for (int i = 0; i < tables.Length; i++)
+                {
+                    Console.WriteLine("Table " + (i + 1) + " is free " + tables[i] + " seats");    
+                }
+
+                Console.WriteLine("\n******************************\n");
+                Console.WriteLine("1 - book the table \n2 - Exit");
                 Console.WriteLine("Enter command number");
 
                 switch (Convert.ToInt32(Console.ReadLine()))
                 {
+                   
                     case 1:
-                        for (int i = 0; i < tables.Length; i++)
-                        {
-                            Console.WriteLine("Table " + (i + 1) + " is free " + tables[i] + " seats");
-                        }
-                        break;
-
-                    case 2:
                         int userTable, userPlace;
                         Console.Write("Witch table do you want to book? ");
                         userTable = Convert.ToInt32(Console.ReadLine()) - 1;
+
+                        if(userTable > tables.Length || userTable <= 0)
+                        {
+                            Console.Write("we don't have that many tables ");
+                            break;
+                        }
+
                         Console.Write("How much places do you want to book? ");
                         userPlace = Convert.ToInt32(Console.ReadLine());
+
+                        if(tables[userTable]< userPlace || userPlace <= 0)
+                        {
+                            Console.Write("Not enough seats at the table. Try again!");
+                            break;
+                        }
 
                         tables[userTable] -= userPlace;
                         break;
 
-                    case 3: isOpen = false;
+                    case 2: isOpen = false;
                         break;
                 }
 
