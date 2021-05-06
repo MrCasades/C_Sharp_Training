@@ -1,0 +1,13 @@
+C:\Users\Mikhail_Kostyukov\source\repos\library-managment\bin\Debug\netcoreapp3.1\library-managment.exe
+C:\Users\Mikhail_Kostyukov\source\repos\library-managment\bin\Debug\netcoreapp3.1\library-managment.deps.json
+C:\Users\Mikhail_Kostyukov\source\repos\library-managment\bin\Debug\netcoreapp3.1\library-managment.runtimeconfig.json
+C:\Users\Mikhail_Kostyukov\source\repos\library-managment\bin\Debug\netcoreapp3.1\library-managment.runtimeconfig.dev.json
+C:\Users\Mikhail_Kostyukov\source\repos\library-managment\bin\Debug\netcoreapp3.1\library-managment.dll
+C:\Users\Mikhail_Kostyukov\source\repos\library-managment\bin\Debug\netcoreapp3.1\library-managment.pdb
+C:\Users\Mikhail_Kostyukov\source\repos\library-managment\obj\Debug\netcoreapp3.1\library-managment.csprojAssemblyReference.cache
+C:\Users\Mikhail_Kostyukov\source\repos\library-managment\obj\Debug\netcoreapp3.1\library-managment.AssemblyInfoInputs.cache
+C:\Users\Mikhail_Kostyukov\source\repos\library-managment\obj\Debug\netcoreapp3.1\library-managment.AssemblyInfo.cs
+C:\Users\Mikhail_Kostyukov\source\repos\library-managment\obj\Debug\netcoreapp3.1\library-managment.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail_Kostyukov\source\repos\library-managment\obj\Debug\netcoreapp3.1\library-managment.dll
+C:\Users\Mikhail_Kostyukov\source\repos\library-managment\obj\Debug\netcoreapp3.1\library-managment.pdb
+C:\Users\Mikhail_Kostyukov\source\repos\library-managment\obj\Debug\netcoreapp3.1\library-managment.genruntimeconfig.cache
