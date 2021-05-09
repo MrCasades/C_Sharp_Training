@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "y0rAGUOR9n1w+Vh9AGMeafQMv3VivBmXe8mpVkIVfWDRj0h2Ib2g4lW1IYvZd/1eblAzMog+scY5QbckhnR1cg==",
+  "dgSpecHash": "u+uYxDcwCG0jDWE2pmDQcve2R5rw7/H34pcHEn9DtK56fvI7HJNkPZU90W6DREmgIh0GIZoQa5PRSZ/Vc63wSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mikhail_Kostyukov\\source\\repos\\guess_number\\guess_number.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\c_sharp_training\\guess_number\\guess_number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
   "logs": []
 }

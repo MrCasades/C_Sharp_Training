@@ -11,3 +11,16 @@ C:\Users\Mikhail_Kostyukov\source\repos\guess_number\obj\Debug\netcoreapp3.1\gue
 C:\Users\Mikhail_Kostyukov\source\repos\guess_number\obj\Debug\netcoreapp3.1\guess_number.dll
 C:\Users\Mikhail_Kostyukov\source\repos\guess_number\obj\Debug\netcoreapp3.1\guess_number.pdb
 C:\Users\Mikhail_Kostyukov\source\repos\guess_number\obj\Debug\netcoreapp3.1\guess_number.genruntimeconfig.cache
+C:\Users\Admin\Documents\c_sharp_training\guess_number\bin\Debug\netcoreapp3.1\guess_number.exe
+C:\Users\Admin\Documents\c_sharp_training\guess_number\bin\Debug\netcoreapp3.1\guess_number.deps.json
+C:\Users\Admin\Documents\c_sharp_training\guess_number\bin\Debug\netcoreapp3.1\guess_number.runtimeconfig.json
+C:\Users\Admin\Documents\c_sharp_training\guess_number\bin\Debug\netcoreapp3.1\guess_number.runtimeconfig.dev.json
+C:\Users\Admin\Documents\c_sharp_training\guess_number\bin\Debug\netcoreapp3.1\guess_number.dll
+C:\Users\Admin\Documents\c_sharp_training\guess_number\bin\Debug\netcoreapp3.1\guess_number.pdb
+C:\Users\Admin\Documents\c_sharp_training\guess_number\obj\Debug\netcoreapp3.1\guess_number.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\c_sharp_training\guess_number\obj\Debug\netcoreapp3.1\guess_number.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\c_sharp_training\guess_number\obj\Debug\netcoreapp3.1\guess_number.AssemblyInfo.cs
+C:\Users\Admin\Documents\c_sharp_training\guess_number\obj\Debug\netcoreapp3.1\guess_number.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\c_sharp_training\guess_number\obj\Debug\netcoreapp3.1\guess_number.dll
+C:\Users\Admin\Documents\c_sharp_training\guess_number\obj\Debug\netcoreapp3.1\guess_number.pdb
+C:\Users\Admin\Documents\c_sharp_training\guess_number\obj\Debug\netcoreapp3.1\guess_number.genruntimeconfig.cache
