@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IFcVXoQ2HHkB6JckQ5d5DGIGjFAk9QDMPWQFDFE1g5yilyGl283FVEESw78P2sI0AXRnYHDGCJZUSR0DJL69ww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\c_sharp_training\\SmallAction\\SmallAction\\SmallAction\\SmallAction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
