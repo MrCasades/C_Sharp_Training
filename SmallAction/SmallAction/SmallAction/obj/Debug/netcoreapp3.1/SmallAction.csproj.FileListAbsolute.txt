@@ -1,0 +1,13 @@
+C:\Users\Mikhail_Kostyukov\source\repos\c_sharp_training\SmallAction\SmallAction\SmallAction\bin\Debug\netcoreapp3.1\SmallAction.exe
+C:\Users\Mikhail_Kostyukov\source\repos\c_sharp_training\SmallAction\SmallAction\SmallAction\bin\Debug\netcoreapp3.1\SmallAction.deps.json
+C:\Users\Mikhail_Kostyukov\source\repos\c_sharp_training\SmallAction\SmallAction\SmallAction\bin\Debug\netcoreapp3.1\SmallAction.runtimeconfig.json
+C:\Users\Mikhail_Kostyukov\source\repos\c_sharp_training\SmallAction\SmallAction\SmallAction\bin\Debug\netcoreapp3.1\SmallAction.runtimeconfig.dev.json
+C:\Users\Mikhail_Kostyukov\source\repos\c_sharp_training\SmallAction\SmallAction\SmallAction\bin\Debug\netcoreapp3.1\SmallAction.dll
+C:\Users\Mikhail_Kostyukov\source\repos\c_sharp_training\SmallAction\SmallAction\SmallAction\bin\Debug\netcoreapp3.1\SmallAction.pdb
+C:\Users\Mikhail_Kostyukov\source\repos\c_sharp_training\SmallAction\SmallAction\SmallAction\obj\Debug\netcoreapp3.1\SmallAction.csprojAssemblyReference.cache
+C:\Users\Mikhail_Kostyukov\source\repos\c_sharp_training\SmallAction\SmallAction\SmallAction\obj\Debug\netcoreapp3.1\SmallAction.AssemblyInfoInputs.cache
+C:\Users\Mikhail_Kostyukov\source\repos\c_sharp_training\SmallAction\SmallAction\SmallAction\obj\Debug\netcoreapp3.1\SmallAction.AssemblyInfo.cs
+C:\Users\Mikhail_Kostyukov\source\repos\c_sharp_training\SmallAction\SmallAction\SmallAction\obj\Debug\netcoreapp3.1\SmallAction.csproj.CoreCompileInputs.cache
+C:\Users\Mikhail_Kostyukov\source\repos\c_sharp_training\SmallAction\SmallAction\SmallAction\obj\Debug\netcoreapp3.1\SmallAction.dll
+C:\Users\Mikhail_Kostyukov\source\repos\c_sharp_training\SmallAction\SmallAction\SmallAction\obj\Debug\netcoreapp3.1\SmallAction.pdb
+C:\Users\Mikhail_Kostyukov\source\repos\c_sharp_training\SmallAction\SmallAction\SmallAction\obj\Debug\netcoreapp3.1\SmallAction.genruntimeconfig.cache
